@@ -1,0 +1,6 @@
+{
+  "name": "Java Üslü Sayı Hesaplama - Enes Öztürk",
+  "description": "Java ile kullanıcının girdiği değerlerle For döngüsü kullanarak üslü sayı hesaplayan interaktif simülatör ve ödev çözümü. Hazırlayan: Enes Öztürk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
